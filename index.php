@@ -76,7 +76,7 @@ get_header();
 							<!-- Four -->
 							<section id="four">
 								<div class="container">
-									<h3>Contact Me</h3>
+									<h3>Contact</h3>
 									<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>
 									<form method="post" action="#">
 										<div class="row gtr-uniform">
