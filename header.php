@@ -1,17 +1,15 @@
 
  
-
- 
-<?php wp_head() ?>
-
+<!DOCTYPE html>
+<html <?php language_attributes(); ?> class="no-js no-svg">
 <head>
-		<title>Read Only by HTML5 UP</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		
-		
+<meta charset="<?php bloginfo( 'charset' ); ?>">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
 
+<?php wp_head(); ?>
 </head>
+
 
 <body class="is-preload">					
 	
